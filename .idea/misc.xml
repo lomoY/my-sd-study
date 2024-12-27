@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mock-api/pom.xml" />
+        <option value="$PROJECT_DIR$/javac-study/pom.xml" />
+        <option value="$PROJECT_DIR$/stuckoverflow/pom.xml" />
+        <option value="$PROJECT_DIR$/AOP-Aspectj-CTW/pom.xml" />
+        <option value="$PROJECT_DIR$/AOP-Aspectj-LTW/pom.xml" />
+        <option value="$PROJECT_DIR$/aop-as-dependency/pom.xml" />
+        <option value="$PROJECT_DIR$/AOP-Aspectj-LTW-Prog/pom.xml" />
+        <option value="$PROJECT_DIR$/multi-thread-simulator/pom.xml" />
+        <option value="$PROJECT_DIR$/aop-aspectj-ctw-context/pom.xml" />
+        <option value="$PROJECT_DIR$/regular-project-for-mvn-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-context-propagation-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="azul-21" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-service" />
+        <module name="mock-api" />
+        <module name="mock-api-service" />
+        <module name="AOP-Aspectj-LTW-Prog" />
+        <module name="common" />
+        <module name="application" />
+        <module name="aspect" />
+        <module name="AOP-Aspectj-LTW" />
+        <module name="javac-study" />
+        <module name="multi-thread-simulator" />
+        <module name="regular-project-for-mvn-test" />
+      </profile>
+      <profile name="Annotation profile for aspectj-ctw-context" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="aop-aspectj-ctw (1)" />
+        <module name="aop-aspectj-ctw" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aop-as-dependency" target="1.8" />
+      <module name="aop-aspectj-ctw" target="17" />
+      <module name="aop-aspectj-ctw (1)" target="17" />
+      <module name="AOP-Aspectj-LTW" target="1.8" />
+      <module name="AOP-Aspectj-LTW-Prog" target="1.8" />
+      <module name="application" target="17" />
+      <module name="aspect" target="17" />
+      <module name="common" target="17" />
+      <module name="demo-service" target="1.8" />
+      <module name="javac-study" target="1.5" />
+      <module name="main" target="1.5" />
+      <module name="mock-api" target="17" />
+      <module name="mock-api-service" target="17" />
+      <module name="multi-thread-simulator" target="17" />
+      <module name="regular-project-for-mvn-test" target="17" />
+      <module name="spring-context-propagation-demo" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AOP-Aspectj-LTW" options="-parameters" />
+      <module name="AOP-Aspectj-LTW-Prog" options="-parameters" />
+      <module name="aop-aspectj-ctw" options="-parameters" />
+      <module name="aop-aspectj-ctw (1)" options="-parameters" />
+      <module name="demo-service" options="-parameters" />
+      <module name="mock-api" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AOP-Aspectj-LTW/AOP-Aspectj-LTW.iml" filepath="$PROJECT_DIR$/AOP-Aspectj-LTW/AOP-Aspectj-LTW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-Aspectj-LTW-Prog/AOP-Aspectj-LTW-Prog.iml" filepath="$PROJECT_DIR$/AOP-Aspectj-LTW-Prog/AOP-Aspectj-LTW-Prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-as-dependency/aop-as-dependency.iml" filepath="$PROJECT_DIR$/aop-as-dependency/aop-as-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOP-Aspectj-CTW/aop-aspectj-ctw.iml" filepath="$PROJECT_DIR$/AOP-Aspectj-CTW/aop-aspectj-ctw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-aspectj-ctw-context/aop-aspectj-ctw (1).iml" filepath="$PROJECT_DIR$/aop-aspectj-ctw-context/aop-aspectj-ctw (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuckoverflow/application/application.iml" filepath="$PROJECT_DIR$/stuckoverflow/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuckoverflow/aspect/aspect.iml" filepath="$PROJECT_DIR$/stuckoverflow/aspect/aspect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuckoverflow/common/common.iml" filepath="$PROJECT_DIR$/stuckoverflow/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop-as-dependency/demo-service/demo-service.iml" filepath="$PROJECT_DIR$/aop-as-dependency/demo-service/demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javac-study/javac-study.iml" filepath="$PROJECT_DIR$/javac-study/javac-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stuckoverflow/main.iml" filepath="$PROJECT_DIR$/stuckoverflow/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock-api/mock-api.iml" filepath="$PROJECT_DIR$/mock-api/mock-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-context-propagation-demo/mock-api-service/mock-api-service.iml" filepath="$PROJECT_DIR$/spring-context-propagation-demo/mock-api-service/mock-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-thread-simulator/multi-thread-simulator.iml" filepath="$PROJECT_DIR$/multi-thread-simulator/multi-thread-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-sd-study.iml" filepath="$PROJECT_DIR$/.idea/my-sd-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regular-project-for-mvn-test/regular-project-for-mvn-test.iml" filepath="$PROJECT_DIR$/regular-project-for-mvn-test/regular-project-for-mvn-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-context-propagation-demo/spring-context-propagation-demo.iml" filepath="$PROJECT_DIR$/spring-context-propagation-demo/spring-context-propagation-demo.iml" />
+    </modules>
+  </component>
+</project>

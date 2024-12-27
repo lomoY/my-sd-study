@@ -1,0 +1,8 @@
+org/example/MyServiceWithLombok.class
+org/example/MyLogAspect.class
+org/example/MyConfig.class
+org/example/App.class
+org/example/MyLog.class
+org/example/MyController.class
+org/example/MyStaticClass.class
+org/example/MyService.class

@@ -1,0 +1,14 @@
+-Xajruntimetarget:1.5
+-Xlint:ignore
+-source
+17
+-target
+17
+-verbose
+-classpath
+/Users/lomo/.m2/repository/org/aspectj/aspectjrt/1.9.20/aspectjrt-1.9.20.jar:/Users/lomo/Documents/aop-demo/stuckoverflow/common/target/common-1.0-SNAPSHOT.jar:/Users/lomo/Documents/aop-demo/stuckoverflow/aspect/target/classes
+-d
+/Users/lomo/Documents/aop-demo/stuckoverflow/aspect/target/classes
+-s
+/Users/lomo/Documents/aop-demo/stuckoverflow/aspect/target/generated-sources/aspectj-maven-plugin
+/Users/lomo/Documents/aop-demo/stuckoverflow/aspect/src/main/java/de/scrum_master/stackoverflow/YourAspect.java
