@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/my-log-lib/pom.xml" />
         <option value="$PROJECT_DIR$/log4j-study/pom.xml" />
         <option value="$PROJECT_DIR$/open-telemetry-study/pom.xml" />
+        <option value="$PROJECT_DIR$/openTelemetry-aspectj-demo/pom.xml" />
       </list>
     </option>
   </component>

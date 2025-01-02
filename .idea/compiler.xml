@@ -26,16 +26,17 @@
         <module name="mdc-study" />
         <module name="regular-project-for-mvn-test" />
       </profile>
-      <profile name="Annotation profile for spring-context-propagation-demo" enabled="true">
+      <profile name="Annotation profile for openTelemetry-aspectj-demo" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" />
         </processorPath>
+        <module name="openTelemetry-aspectj-demo" />
+        <module name="mock-api-service" />
         <module name="aop-aspectj-ctw (1)" />
         <module name="aop-aspectj-ctw" />
-        <module name="mock-api-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -50,6 +51,7 @@
       <module name="micrometer-study" options="-parameters" />
       <module name="mock-api" options="-parameters" />
       <module name="network-study" options="-parameters" />
+      <module name="openTelemetry-aspectj-demo" options="-parameters" />
     </option>
   </component>
 </project>

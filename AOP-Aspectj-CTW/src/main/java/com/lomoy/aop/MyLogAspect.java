@@ -14,12 +14,8 @@ public class MyLogAspect {
 
     }
 
-    @Before("execution(private * com.lomoy..*(..))")
-    public void capturePrivateMethods(JoinPoint joinPoint) {
-        System.out.println(Thread.currentThread().getName() + ": @Before Captured method: " + joinPoint.getSignature());
-    }
 
-    @Before("@annotation(MyLog)")
+    @Before("@annotation(MyControllerAnno)")
     public void beforeAdviceWithThread(JoinPoint joinPoint){
         String signatrureName = joinPoint.getSignature().getName();
         Object[] args = joinPoint.getArgs();

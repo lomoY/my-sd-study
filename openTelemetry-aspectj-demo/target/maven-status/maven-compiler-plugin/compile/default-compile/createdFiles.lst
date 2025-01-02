@@ -1,0 +1,5 @@
+org/lomo/demo/MyDependencyAnno.class
+org/lomo/demo/MyAspect.class
+org/lomo/demo/MyService.class
+org/lomo/demo/MyControllerAnno.class
+org/lomo/demo/MyController.class
