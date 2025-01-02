@@ -1,0 +1,2 @@
+这个test3有点难
+需要lambda和Runnable的相关知识

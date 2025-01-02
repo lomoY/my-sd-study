@@ -1,1 +1,13 @@
-org/example/App.class
+org/lomo/contextpropagation/test5/MyDependencyAnnotation.class
+org/lomo/contextpropagation/test1/ControllerV1.class
+org/lomo/contextpropagation/test4/WebFluxConfig.class
+org/lomo/contextpropagation/test5/ControllerV5.class
+org/lomo/contextpropagation/test2/ControllerV2.class
+org/lomo/contextpropagation/MockApiService.class
+org/lomo/contextpropagation/test3/ControllerV3.class
+org/lomo/contextpropagation/test3/WrappedRunnable.class
+org/lomo/contextpropagation/test4/MyControllerAdvise.class
+org/lomo/contextpropagation/test4/ContextPropagatingAspect.class
+org/lomo/contextpropagation/test4/ControllerV4.class
+org/lomo/contextpropagation/test5/ContextPropagatingAspectV5.class
+org/lomo/contextpropagation/test5/MyControllerAnnotation.class

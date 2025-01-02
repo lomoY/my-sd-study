@@ -16,7 +16,7 @@ public class MultiThreadSimulatorApp
     {
         System.out.println( "Hello World!" );
 
-        String baseUrl = "http://localhost:8080/perform";
+        String baseUrl = "http://localhost:8080/performot";
         WebClient webClient = WebClient.create();
 
         int requestCount = 500; // 模拟 50 个并发请求
