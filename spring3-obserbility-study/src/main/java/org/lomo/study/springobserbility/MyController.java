@@ -19,6 +19,7 @@ class MyController {
     @GetMapping("/user/{userId}")
     String userName(@PathVariable("userId") String userId) {
         log.info("Got a request");
-        return myUserService.userName(userId);
+        myUserService.userName(userId);
+        return "";
     }
 }

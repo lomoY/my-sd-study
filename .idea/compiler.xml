@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-service" />
         <module name="network-study" />
+        <module name="spring3-observation-tracing" />
         <module name="my-log-lib" />
         <module name="mock-api" />
         <module name="open-telemetry-study" />
