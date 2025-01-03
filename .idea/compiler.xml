@@ -21,6 +21,7 @@
         <module name="aspect" />
         <module name="brave-tracing-study" />
         <module name="AOP-Aspectj-LTW" />
+        <module name="spring3-obserbility-study" />
         <module name="javac-study" />
         <module name="multi-thread-simulator" />
         <module name="mdc-study" />
@@ -52,6 +53,7 @@
       <module name="mock-api" options="-parameters" />
       <module name="network-study" options="-parameters" />
       <module name="openTelemetry-aspectj-demo" options="-parameters" />
+      <module name="spring3-obserbility-study" options="" />
     </option>
   </component>
 </project>
