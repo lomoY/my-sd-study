@@ -7,7 +7,7 @@ import io.micrometer.observation.ObservationHandler;
 
 
 import io.micrometer.observation.contextpropagation.ObservationThreadLocalAccessor;
-import io.micrometer.tracing.Tracer;
+//import io.micrometer.tracing.Tracer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,8 +19,8 @@ import java.util.stream.StreamSupport;
 //@Component
 class MyHandler implements ObservationHandler<Observation.Context> {
 
-    @Autowired
-    private  Tracer tracer;
+//    @Autowired
+//    private  Tracer tracer;
     private static final Logger log = LoggerFactory.getLogger(MyHandler.class);
 
     @Override

@@ -3,12 +3,33 @@ package org.lomo.study.springobserbility;
 import io.micrometer.observation.Observation;
 import io.micrometer.observation.ObservationRegistry;
 import io.micrometer.observation.aop.ObservedAspect;
+import io.opentelemetry.api.GlobalOpenTelemetry;
+import io.opentelemetry.exporter.logging.LoggingSpanExporter;
+import io.opentelemetry.sdk.OpenTelemetrySdk;
+import io.opentelemetry.sdk.trace.SdkTracerProvider;
+import io.opentelemetry.sdk.trace.export.SimpleSpanProcessor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration(proxyBeanMethods = false)
 class MyConfiguration {
 
+    //这个是提供给外部使用的
+//   @Bean
+//    public OpenTelemetrySdk openTelemetry() {
+//        // Configure the OpenTelemetry SDK
+//        SdkTracerProvider tracerProvider = SdkTracerProvider.builder()
+//                .addSpanProcessor(SimpleSpanProcessor.create(new LoggingSpanExporter())) // Example exporter
+//                .build();
+//
+//        OpenTelemetrySdk openTelemetrySdk = OpenTelemetrySdk.builder()
+//                .setTracerProvider(tracerProvider)
+//                .build();
+//
+//        GlobalOpenTelemetry.set(openTelemetrySdk);
+//
+//        return openTelemetrySdk;
+//    }
 
 //    @Bean
 //    ObservationRegistry register(){

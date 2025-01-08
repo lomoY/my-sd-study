@@ -15,11 +15,13 @@
         <module name="open-telemetry-study" />
         <module name="micrometer-study" />
         <module name="AOP-Aspectj-LTW-Prog" />
+        <module name="spring3-reactor-tracing" />
         <module name="common" />
         <module name="application" />
         <module name="thread-study" />
         <module name="log4j-study" />
         <module name="aspect" />
+        <module name="spring3-reactor-tracing-with-aspecj-aop" />
         <module name="brave-tracing-study" />
         <module name="AOP-Aspectj-LTW" />
         <module name="spring3-obserbility-study" />

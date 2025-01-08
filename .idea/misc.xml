@@ -26,6 +26,8 @@
         <option value="$PROJECT_DIR$/openTelemetry-aspectj-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring3-obserbility-study/pom.xml" />
         <option value="$PROJECT_DIR$/spring3-observation-tracing/pom.xml" />
+        <option value="$PROJECT_DIR$/spring3-reactor-tracing/pom.xml" />
+        <option value="$PROJECT_DIR$/spring3-reactor-tracing-with-aspecj-aop/pom.xml" />
       </list>
     </option>
   </component>

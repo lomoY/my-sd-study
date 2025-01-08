@@ -22,9 +22,9 @@ class MyUserService {
     // <getting-user-name> will be used as a span  name
     // <userType=userType2> will be set as a tag for both metric & span
     @Async
-    @Observed(name = "user.name",
-            contextualName = "getting-user-name",
-            lowCardinalityKeyValues = {"userType", "userType2"})
+//    @Observed(name = "user.name",
+//            contextualName = "getting-user-name",
+//            lowCardinalityKeyValues = {"userType", "userType2"})
     void userName(String userId) {
         log.info("Getting user name for user with id " + userId);
         try {
