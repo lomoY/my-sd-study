@@ -3,6 +3,6 @@
         <include within="com.lomoy..*" />
     </weaver>
     <aspects>
-        <aspect name="com.lomoy.aop.MyLogAspect" />
+        <aspect name="com.lomoy.aop.MyAspect" />
     </aspects>
 </aspectj>

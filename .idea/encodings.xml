@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW-V2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW-V2/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AOP-Aspectj-CTW/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AOP-Aspectj-LTW-Prog/src/main/java" charset="UTF-8" />
@@ -34,6 +36,8 @@
     <file url="file://$PROJECT_DIR$/open-telemetry-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/openTelemetry-aspectj-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/openTelemetry-aspectj-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project-reactor-study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project-reactor-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-context-propagation-demo/mock-api-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-context-propagation-demo/mock-api-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-context-propagation-demo/src/main/java" charset="UTF-8" />

@@ -1,2 +1,5 @@
+org/lomo/sutdy/demo/Main.class
 org/lomo/sutdy/demo/MyLogAspect.class
 org/lomo/sutdy/demo/JokerCapture.class
+org/lomo/sutdy/demo/MyUserService.class
+org/lomo/sutdy/demo/MyController.class

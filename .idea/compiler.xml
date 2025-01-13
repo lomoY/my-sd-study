@@ -16,6 +16,7 @@
         <module name="micrometer-study" />
         <module name="AOP-Aspectj-LTW-Prog" />
         <module name="spring3-reactor-tracing" />
+        <module name="project-reactor-study" />
         <module name="common" />
         <module name="application" />
         <module name="thread-study" />
@@ -24,6 +25,7 @@
         <module name="spring3-reactor-tracing-with-aspecj-aop" />
         <module name="brave-tracing-study" />
         <module name="AOP-Aspectj-LTW" />
+        <module name="aop-aspectj-ctw-v2" />
         <module name="spring3-obserbility-study" />
         <module name="javac-study" />
         <module name="multi-thread-simulator" />
@@ -50,6 +52,7 @@
       <module name="AOP-Aspectj-LTW-Prog" options="-parameters" />
       <module name="aop-aspectj-ctw" options="-parameters" />
       <module name="aop-aspectj-ctw (1)" options="-parameters" />
+      <module name="aop-aspectj-ctw-v2" options="-parameters" />
       <module name="demo-service" options="-parameters" />
       <module name="log4j-study" options="-parameters" />
       <module name="micrometer-study" options="-parameters" />
